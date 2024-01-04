@@ -10,11 +10,9 @@
 
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" height="200" /></p>
 
-<div>
-  <p style="float: left; margin-right: 10px;"><img class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" /></p>  <p style="float: left;"><img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=Zhefan-Xu&count_private=true&show_icons=true" alt="Zhefan-Xu" width="410" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhefan-Xu&count_private=true&show_icons=true" alt="Zhefan-Xu" height="200" /></p>
 
-  <div style="clear: both;"></div>
-</div>
 
 
