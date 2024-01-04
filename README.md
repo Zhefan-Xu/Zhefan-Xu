@@ -11,8 +11,8 @@
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img style="height: 150px; width: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" />
-    <img style="height: 150px; width: auto;" align="right" src="https://github-readme-stats.vercel.app/api?username=Zhefan-Xu&count_private=true&show_icons=true" alt="Zhefan-Xu" />
+    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhefan-Xu&show_icons=true&locale=en&layout=compact" alt="Zhefan-Xu" />
+    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats.vercel.app/api?username=Zhefan-Xu&count_private=true&show_icons=true" alt="Zhefan-Xu" />
 </div>
 
 
