@@ -1,7 +1,7 @@
 ### Hi there! This is Zhefan.👋
 
 - 🔭 I am currently working on my **Ph.D. at Carnegie Mellon University**.
-- 🌱 I do research in robotics about learning, autonomy, perception, and planning for mobile robots.
+- 🌱 I do research in robotics about learning, autonomy, perception, and planning.
 - 📫 My personal homepage: https://zhefanxu.com/
 - 💬 My contact information: zhefanx@andrew.cmu.edu
 
